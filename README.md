@@ -27,6 +27,10 @@
     create token and send
     send a json response with all data
 
+## index.js
+    PORT 
+    .env
+
 <br>
 
 
